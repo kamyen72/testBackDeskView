@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "edge": "^7.10.1"
+  }
+}
